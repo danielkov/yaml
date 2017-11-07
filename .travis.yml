@@ -6,7 +6,7 @@ go:
     - 1.6
     - tip
 
-go_import_path: gopkg.in/yaml.v2
+go_import_path: github.com/danielkov/yaml
 
 script:
     - go test
